@@ -2379,3 +2379,11 @@ background-color:#3D3C40;
     background-color: #1d1f21;
     box-shadow: inset 1px 0 0 0 #3D3C40;
 }
+
+.c-message_kit__file__meta__text {
+    color:#F9F9F9;
+}
+
+.c-message_kit__file__meta__collapse {
+    color:#F9F9F9;
+}
