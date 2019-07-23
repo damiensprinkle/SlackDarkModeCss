@@ -1,3 +1,6 @@
+
+
+
 /* Scrollbar Chrome*/
 *::-webkit-scrollbar {
     width: 10px !important;
@@ -2386,4 +2389,25 @@ background-color:#3D3C40;
 
 .c-message_kit__file__meta__collapse {
     color:#F9F9F9;
+}
+
+
+
+.p-classic_nav__model__title {
+     color: #878787;
+}
+.p-classic_nav__channel_header, .p-classic_nav__right_header {
+      color: #878787;
+    background-color:#1d1c1d
+        
+}
+.p-workspace__input {
+       color: #1d1f21;
+    
+}
+.p-classic_nav__model__title__info, .p-classic_nav__right__search, .p-classic_nav__no_drag, .p-classic_nav__right__search__icon, .p-classic_nav__right__search__placeholder {
+    color:white;
+}
+.p-classic_nav__right__search {
+    border: 1px solid white;
 }
